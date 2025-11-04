@@ -1,6 +1,6 @@
 # Brain Tumor Detection with CNN
 
-**This project was created for the Hack O Spider Hackathon, under the track Artificial Intelligence and Machine Learning.**
+**This project was created for the VOID HACKS Hackathon, under the track Artificial Intelligence and Machine Learning.**
 
 ---
 
